@@ -94,6 +94,6 @@ echo "Add your SSH public key to /home/$USERNAME/.ssh/authorized_keys to access 
 echo "Then connect with: ssh -p $SSH_PORT $USERNAME@your_server_ip"
 
 ## NOW TO USE: when starting new vps, download and run: 
-## curl -O https://raw.githubusercontent.com/yourusername/vps-setup/main/setup.sh
+## curl -O https://raw.githubusercontent.com/givecoffee/vps-setup/refs/heads/main/setup.sh
 ## chmod +x setup.sh
 ## sudo ./setup.sh
